@@ -3,4 +3,5 @@
 - titles.md: The movie titles in the WebFlyx collection
 - classics.csv: A comma-separated list of classic movies
 - quotes: A directory of files containing memorable quotes from movies
-- additional because I'm pissed now
+- additional because I'm pissed now.
+- still pissed.
